@@ -2,7 +2,7 @@
 ## Welcome! 👋
 - At work, I lead an R&D team developing next-gen power semiconductors for electric vehicles and renewable energy.
 - I'm interested in power electronics, robotics, embedded controls, and programming at the intersection of physics and art.
-- Currently learning javascript, 2D physics engines, plotting libraries, control systems, and GPU pixel and compute shaders.
+- Currently learning javascript, 2D physics engines, plotting libraries, control systems, and GPU fragment and compute shaders.
 
 ## Collaboration
 I’d love to collaborate on simulating some textbook mechanical control problems.
